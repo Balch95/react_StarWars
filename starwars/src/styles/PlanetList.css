@@ -1,0 +1,18 @@
+.planet-list ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.planet-list ul li{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+
+.planet-list ul li span{
+    padding: 5px;
+}
